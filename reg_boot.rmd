@@ -16,8 +16,7 @@ library(tidyverse)
 ## Introduction
 
 In this assignment we use bootstrapping to estimate the standard error 
-of several regression coefficients. (We did this in class with the 
-adjusted $R^2$ statistic.) 
+of several regression coefficients. We did this in class with adjusted R-squared.
 
 In the past few assignments I've created most of the framework for you and 
 asked you to fill in pieces that I've left blank. This assignment is 
@@ -27,11 +26,13 @@ Feel free to use this actual RMD file for your writing, but now you'll need
 to know how to do code blocks and things like that. If you're anything like me,
 you'll find the 
 [R Markdown Cheat Sheet](https://github.com/rstudio/cheatsheets/raw/master/rmarkdown-2.0.pdf)
-invaluable. Please write this document with attention to things like headers, spelling, 
-and formatting. It need not be as polished as a formal report, but I'll ask you to revise
+invaluable. Please write this document with attention to things like headers, 
+spelling, 
+and formatting. It need not be as polished as a formal report, but 
+I'll ask you to revise
 it if it looks like garbage. I'm not expecting a ton of writing here, but I'd like 
-it to look nice. Remember to knit your document to HTML and commit both your RMD and HTML
-files. 
+it to look nice. Remember to knit your document to HTML and commit both 
+your RMD and HTMLfiles. 
 
 ## Assignment
 
@@ -49,7 +50,8 @@ generate standard error estimates for the residual standard error and the model 
 Report the 90% confidence interval for these statistics from the bootstrap replicates. 
 1. Briefly compare the values from `summary.lm` to the bootstrap replicates. 
 
-As always, please me know if you have any questions. Feel free to ask on Teams so that your
+As always, please me know if you have any questions. Feel free to ask on Teams 
+so that your
 classmates benefit from your curiosity or confusion. 
 
 
