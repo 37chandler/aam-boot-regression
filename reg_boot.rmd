@@ -32,7 +32,7 @@ and formatting. It need not be as polished as a formal report, but
 I'll ask you to revise
 it if it looks like garbage. I'm not expecting a ton of writing here, but I'd like 
 it to look nice. Remember to knit your document to HTML and commit both 
-your RMD and HTMLfiles. 
+your RMD and HTML files. 
 
 ## Assignment
 
